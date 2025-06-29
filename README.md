@@ -1,2 +1,11 @@
-# Next-Word-Predicting-using-tensorflow
-Next Word Prediction using TensorFlow :  This repository contains a deep learning project that demonstrates Next Word Prediction using TensorFlow and Natural Language Processing (NLP) techniques. The model is trained on a corpus of text to predict the most probable next word given a sequence of words.
+# Next Word Predictor (TensorFlow)
+
+This project builds a deep learning model that predicts the next word(s) in a sentence using LSTM.
+
+## 🧠 Features
+- Tokenizes input text
+- Trains a next-word prediction model using LSTM
+- Predicts next word(s) given a seed word
+
+## 📁 Project Structure
+
